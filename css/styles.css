@@ -6,6 +6,10 @@ body{
     line-height: 2;
 }
 
+p{
+    font-size: 15px; 
+}
+
 hr{
     border: 6px dotted grey;
     border-bottom: none;
@@ -58,14 +62,14 @@ a:hover{
 
 .bottom-cloud{
     position: absolute;
-    left: 200px;
-    bottom: 200px;
+    left: 15%;
+    bottom: 25%;
 }
 
 .top-cloud{
     position: absolute;
-    right: 200px;
-    top: 200px;
+    right: 15%;
+    top: 25%;
 }
 
 .profile{
