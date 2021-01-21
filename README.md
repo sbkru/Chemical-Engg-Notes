@@ -1,2 +1,1 @@
-# Chemical-Engg-Notes
-Contains some essential notes of chemical engg dept
+This is a personal portfolio website( one page ).
